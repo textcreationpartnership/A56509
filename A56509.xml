@@ -1,0 +1,540 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mene tekel being an astrological judgment on the great and wonderful year 1688. Deduced from the true and genuine principles of that art: shewing the approaching catastrophe of popery in England, &amp;c.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56509</idno>
+            <idno type="STC">Wing P619C</idno>
+            <idno type="STC">ESTC R221408</idno>
+            <idno type="EEBO-CITATION">99832718</idno>
+            <idno type="PROQUEST">99832718</idno>
+            <idno type="VID">37192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37192)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2149:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mene tekel being an astrological judgment on the great and wonderful year 1688. Deduced from the true and genuine principles of that art: shewing the approaching catastrophe of popery in England, &amp;c.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>[2], 1, 4-15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by H.H. for the use of J. Gadbury,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Partridge.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Woodcut of hand holding quill on title page.</note>
+                  <note>Text and register are continuous despite pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Europe --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37192:1" rendition="simple:additions"/>
+            <figure>
+               <figDesc>the hand of god, an allusion to Daniel 5:1-31</figDesc>
+               <q>Mene Tekel</q>
+            </figure>
+            <p>BEING An ASTROLOGICAL JUDGMENT On the Great and Wonderful Year 1688.</p>
+            <p>Deduced from the true and Genuine Principles of that Art: Shewing the Approaching <hi>Cataſtrophe</hi> of <hi>Popery</hi> in ENGLAND, &amp;c.</p>
+            <q>
+               <p>Thou ſhalt not make unto thee any <hi>Graven Image.</hi>
+               </p>
+               <p>Thou ſhalt not <hi>bow down</hi> thy ſelf to them, <bibl>
+                     <hi>Exod.</hi> xx. v. 4, 5.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>They Laviſh Gold out of the bag, and weigh Silver in the bal<g ref="char:EOLhyphen"/>lance, and hire a <hi>Goldſmith,</hi> and he <hi>maketh it a God:</hi> they <hi>fall down,</hi> yea they worſhip.</p>
+               <p>They <hi>bear him</hi> upon the <hi>Shoulder;</hi> they carry him, and ſet him in his place, <bibl>
+                     <hi>Iſai.</hi> 46. v. 6, 7.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>And <hi>Jehoſaphat</hi> ſaid, is there not here a Prophet <hi>of the Lord,</hi> that we may inquire of him.</p>
+               <p>And the <hi>King</hi> ſaid, there is yet one man, by whom we may in<g ref="char:EOLhyphen"/>quire, <hi>but I hate him;</hi> for he doth not prophecy <hi>good</hi> concerning me, but <hi>evil,</hi> 
+                  <bibl>1 <hi>Kings</hi> 22. v. 7, 8.</bibl>
+               </p>
+            </q>
+            <p>London Printed by H. H. for the uſe of <hi>J. Gadbury.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:37192:2"/>
+            <head>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Haters of <hi>Popery,</hi> by what Names or Titles ſoever dignified or diſtinguiſhed.</head>
+            <lg>
+               <l>
+                  <hi>THus 'twas of old, then</hi> Iſrael <hi>felt the rod,</hi>
+               </l>
+               <l>
+                  <hi>When they obey'd</hi> their Kings, <hi>and not</hi> their God;</l>
+               <l>
+                  <hi>When they went</hi> Whoreing <hi>after other Loves,</hi>
+               </l>
+               <l>
+                  <hi>To worſhip</hi> Idols <hi>in new planted Groves,</hi>
+               </l>
+               <l>
+                  <hi>They made their</hi> Gods <hi>of</hi> Silver, Wood <hi>and</hi> Stone,</l>
+               <l>
+                  <hi>And</hi> how'd <hi>and</hi> Worſhip <hi>them when they had done.</hi>
+               </l>
+               <l>
+                  <hi>And to compleat</hi> their <hi>ſins in every way,</hi>
+               </l>
+               <l>
+                  <hi>They made 'em things call'd</hi> Prieſt, Prieſt <hi>did I ſay,</hi>
+               </l>
+               <l>
+                  <hi>A</hi> Crew Villians <hi>more than they.</hi>
+               </l>
+               <l>
+                  <hi>Hence ſprung that</hi> Romiſh Crew, <hi>firſt ſpawn'd in Hell,</hi>
+               </l>
+               <l>
+                  <hi>Who now in vice</hi> their Pedagogues <hi>excel;</hi>
+               </l>
+               <l>
+                  <hi>Their Church Conſiſts of vicious</hi> Popes, <hi>the Reſt</hi>
+               </l>
+               <l>
+                  <hi>Are</hi> Whoreing Nuns, <hi>and bawdy</hi> Bugg'ring Prieſts.</l>
+               <l>
+                  <hi>A</hi> Noble Church! <hi>dawh'd with religious Paint,</hi>
+               </l>
+               <l>
+                  <hi>Each</hi> Prieſt's <hi>a</hi> Stallion, <hi>every</hi> Rogue's <hi>a</hi> Saint.</l>
+               <l>
+                  <hi>Come you that Loath</hi> this Brood, <hi>this mudring Crew</hi>
+               </l>
+               <l>
+                  <hi>Your Predeceſſors well their mercys knew.</hi>
+               </l>
+               <l>
+                  <hi>Take courage now, and be both bold and wiſe;</hi>
+               </l>
+               <l>
+                  <hi>Stand for your</hi> Laws, Religion, Liberties,</l>
+               <l>
+                  <hi>You have the odds, the</hi> Law <hi>is ſtill your own,</hi>
+               </l>
+               <l>
+                  <hi>They're but your</hi> Traytors, <hi>therefore pull 'em down.</hi>
+               </l>
+               <l>
+                  <hi>They ſtruck with fear, ſeek to deſtroy your</hi> Laws</l>
+               <l>
+                  <hi>They're raving mad, you ſee they fix their paws,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe from them they fear their ſatal fall,</hi>
+               </l>
+               <l>
+                  <hi>And by them</hi> Laws, <hi>they know you'l</hi> hang <hi>'em all.</hi>
+               </l>
+               <l>
+                  <hi>Then keep your</hi> Laws, <hi>the</hi> Penal, <hi>and the</hi> Reſt,</l>
+               <l>
+                  <hi>And give your Lives up, ere you give tee</hi> Teſt.</l>
+               <l>
+                  <hi>And thou great</hi> Church <hi>of</hi> England <hi>hold thy own,</hi>
+               </l>
+               <l>
+                  <hi>Force you they may, otherwiſe give up non<g ref="char:cmbAbbrStroke">̄</g>e,</hi>
+               </l>
+               <l>Robbers <hi>and</hi> Thieves <hi>muſt count for what they 've done<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Let all thy mighty pilliars now appear,</hi>
+               </l>
+               <l>Zealous <hi>and</hi> brave, <hi>void both of</hi> hate <hi>and</hi> fear.</l>
+               <l>
+                  <hi>That</hi> Popiſh Fops <hi>may grin, lye, cheat and whine;</hi>
+               </l>
+               <l>
+                  <hi>And curſe their</hi> Faith; <hi>while all admire thine.</hi>
+               </l>
+               <l>
+                  <hi>And thou Brave</hi> Oxford, Cambridg, <hi>and the Reſt,</hi>
+               </l>
+               <l>
+                  <hi>Great</hi> Hough <hi>and</hi> Fairfax, <hi>that durſt heard the Beaſt,</hi>
+               </l>
+               <l>
+                  <hi>Let all the Juſt with thanks record their name</hi>
+               </l>
+               <l>
+                  <hi>On ſtanding</hi> Pillas <hi>of immortal fame.</hi>
+               </l>
+            </lg>
+            <closer>
+               <salute>Let God ariſe, and his Enemies peri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</salute>
+               <signed>J U.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37192:2" rendition="simple:additions"/>
+            <head>JUDICIUM ASTROLOGICUM <hi>Pro Anno.</hi> 1688.</head>
+            <p>THE firſt three Months of the Year are always conſidered from the poſitions of the Suns entrance into the Tropical ſign <hi>Capricorn,</hi> which was [from the <hi>Caroline Tables</hi>] in 1687. on the eleventh of <hi>December,</hi> at 2 hours 24 minutes P. M. at which time three degrees of <hi>Aquary</hi> was on the M. C. and 7 degrees of <hi>Gemini</hi> on the Aſcendent: <hi>Saturn</hi> is in 23 degree of <hi>Libra,</hi> in the ſixth Houſe: <hi>Mars</hi> in 26 degree of <hi>Piſces,</hi> in the eleventh, and <hi>Jupiter</hi> in conjunction with the <hi>Sun,</hi> in the eighth, in <hi>Capricorn</hi> his fall; <hi>Cumbuſt</hi> and <hi>Occidental,</hi> and <hi>Venus</hi> in the ſixth in <hi>Scorpio</hi> her detriment. So that the two Fortunes are in a poor week condi<g ref="char:EOLhyphen"/>tion, and none of the ſeven <hi>Angular</hi> but the <hi>Moon.</hi> At the <hi>Pre<g ref="char:EOLhyphen"/>ventional full Moon</hi> all the Plannets were under the Earth, except <hi>Mars</hi> and the <hi>Moon,</hi> and they in a <hi>double Square</hi> from the tenth and ſeventh Houſes; and the <hi>Sun</hi> likewiſe in Square to <hi>Mars.</hi> At the <hi>Poſtventional New Moon,</hi> the <hi>Sun</hi> is in the tenth, and <hi>Mars</hi> in <hi>Aries</hi> in the <hi>Aſcendent,</hi> in Square to <hi>Jupiter</hi> and <hi>Mercury.</hi> And now let us examin what will be the effects of theſe poſi<g ref="char:EOLhyphen"/>tions.</p>
+            <p>At the Ingreſs and the full Moon, the Planets are generally under the Earth, and in obſcure Houſes, which ſhews cloſe <hi>Con<g ref="char:EOLhyphen"/>ſults, Councils</hi> and <hi>Cabals</hi> in divers places and parts of <hi>Europe,</hi> and that the principal part of this Quarter will be ſpent in debates, and affairs of that nature. The things in debate are <hi>two,</hi> and thoſe are Religion and Dominion, or rather a power to impoſe the former upon mankind, the better to introduce ſome other projects. And this is ſhewed by the poſition of the <hi>Sun</hi> in conjun<g ref="char:EOLhyphen"/>ction with <hi>Jupiter,</hi> and he in Reception with <hi>Mars, Jupiter</hi> (you muſt obſerve) alwaies perſonates the <hi>Clergy of Nations,</hi> and they you know generally love to be concerned in Government, and ac<g ref="char:EOLhyphen"/>cordingly he is here got under the <hi>Suns</hi> protection, who is the real Patron of Government and Rule: and <hi>Mars</hi> is to be his <hi>Hector</hi> to manage the affair by force, if no other way will do. But if <hi>Bona<g ref="char:EOLhyphen"/>tus</hi> ſays true, They will be cruelly diſappointed; for he ſays, the <hi>Sun</hi> in the eighth Houſe <hi>ſignificat depreſſionem divitum &amp; magna<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um ſeu Mobilium,</hi> &amp;c. and in another place ſpeaking of <hi>Mars</hi> in <hi>Piſces,</hi>
+               <pb n="4" facs="tcp:37192:3" rendition="simple:additions"/>
+he ſays, <hi>Mortem Magnatum &amp; Divitum ſignficat.</hi> So that between <hi>depreſſion</hi> and <hi>death</hi> they are like to loſe their long lookt for, and wiſhed for deſire, to the great grief of <hi>Mother Church</hi> and her <hi>Babes.</hi> But yet to make it more clear that the thing is Religion, pray ob<g ref="char:EOLhyphen"/>ſerve, that <hi>Saturn,</hi> who is Lord of the ninth and tenth Houſes, hath been lately in <hi>Sextile</hi> with the <hi>Sun;</hi> and <hi>Mercury</hi> the little <hi>foot-poſt</hi> among the Stars, is in the <hi>ninth Houſe Retrograde,</hi> and his firſt application is to the bodies of <hi>Jupiter</hi> and the <hi>Sun:</hi> from whence it is more than probable, that the deſign is ſo.</p>
+            <p>If we conſider, that immediately after the Ingreſs, the <hi>Sun, Jupiter</hi> and <hi>Mercury</hi> meet in the beginning of <hi>Capricorn,</hi> and this in the eighth Houſe, about which time we may conclude, that there was ſome conſiderable thing taken into conſide<g ref="char:EOLhyphen"/>ration, that is fit and ſerviceable for the preſent Juncture of affairs: but while it is under conſideration, the advantage propounded is ſpoiled. For <hi>Mars</hi> comes up preſently after to the Square of <hi>Mercury</hi> and <hi>Jupiter,</hi> and the <hi>Sun</hi> ſhortly after to the Square of <hi>ſaturn,</hi> which divides their Councils, and deſtroys the deſign; ſo that when <hi>Mars</hi> comes to the Oppoſi<g ref="char:EOLhyphen"/>tion of <hi>ſaturn</hi> in the end of <hi>January,</hi> or thereabouts, you may hear of <hi>Favourites</hi> turned out, and new ones entertained. Freſh <hi>Dragooning</hi> in <hi>France,</hi> or ſomething like it, new at<g ref="char:EOLhyphen"/>tempts in <hi>England,</hi> to wheedle the people to chuſe a <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> to deſtroytheir Laws and Religion. But under the af<g ref="char:EOLhyphen"/>fects of that Oppoſition of <hi>Saturn</hi> and <hi>Mars,</hi> will be laid the project or deſign of ſome curſed attempt, to be performed a<g ref="char:EOLhyphen"/>bout <hi>June</hi> following, for that oppoſition is celebrated upon a New Moon, from active parts of Heaven, attended by bad Aſpects, and the <hi>Sun</hi> and <hi>Moon</hi> at the ſame time in Oppoſition to the places of the <hi>laſt great triple Conjunction in Leo.</hi> And <hi>Bona<g ref="char:EOLhyphen"/>tus</hi> tells us, that <hi>Mars</hi> joined to <hi>Saturn</hi> by oppoſition, is of a pernicious conſequence. <hi>Inſurgent enim in eos ex guerris, &amp; ni<g ref="char:EOLhyphen"/>tentur contra eos;</hi> and again he ſays, <hi>Mars in Ariete ſignificat victorium in bello civibus civitatum illarum: &amp; habit atoribus illarum tregionum ſuper inimicos eorum, qui venerint de aliis partibus ad illas ceuſa nocendi eis.</hi> That <hi>Mars</hi> in <hi>Aries</hi> ſignifies victory to the Citiziens and Inhabitants of thoſe Cities and Countries under that ſign (I ſuppoſe he means if they have occaſion to fight) and that they ſhall put to flight all thoſe that come to offer them either Violence or injury. And to ſay the truth I do believe that Oppoſition with ſome other Poſitions and Configurations, will
+<pb facs="tcp:37192:3"/>
+be the occaſion of ſuch differences, that will come both to blows and blood, in what part of the world I ſhall leave to time to ſhew: only this I will ſay, thoſe <hi>Cities</hi> and <hi>Countreys</hi> under <hi>Aries</hi> and <hi>Libr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> will feel the ſmart of it.</p>
+            <p>The effects of this Querter will conſiſt more of Conſults, than Action, and the Contrivances thereof will be the work of the following Summer. And ſo I come to conſider the Vernal Ingreſs of the <hi>Sun,</hi> which is March the ninth at 4. hours P. M. 1688. At the time mentioned of the <hi>Suns</hi> entrance into <hi>Aries,</hi> there is 2. degrees of <hi>Gemini</hi> on the M. C. and 9. degrees of <hi>Virgo</hi> Aſcending; <hi>Saturn</hi> than in 23. degrees of <hi>Libra; Jupiter</hi> in 22. degrees of <hi>Capricorn; Mars</hi> in 24. degrees of <hi>Taurus,</hi> among the <hi>Pleiades; Venus</hi> in 18. degrees of <hi>Aquary;</hi> the <hi>Moon</hi> in 11. de<g ref="char:EOLhyphen"/>grees of <hi>Scorpio;</hi> and <hi>Mercury</hi> in 12 degrees of <hi>Aries.</hi> The firſt and the principal think remarkable in this figure, is the Square of <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> and <hi>Saturn</hi> from <hi>Cardinals ſigns:</hi> and this of it ſelf will bear the general ſway in the effects of the three following Months, and ought to be conſidered two ſeveral ways. Firſt from the <hi>Aſpect,</hi> and ſecondly their <hi>Poſition.</hi> As to the <hi>Aſpect:</hi> it ne<g ref="char:EOLhyphen"/>ver gives any thing, that is either ſudden or very violent; but it ſtirs up <hi>differences</hi> and <hi>Societies,</hi> gives <hi>Treacheries</hi> and <hi>Vil<g ref="char:EOLhyphen"/>lanies,</hi> with the diſcovery thereof; gives <hi>Nations</hi> and <hi>Kingdoms ſuſpitions</hi> of their <hi>Governors.</hi> And this ſometimes not without a cauſe; but it always begets <hi>Troubles, Animoſities, Differences,</hi> and the like, from whence proceeds greater miſchiefs, which certain<g ref="char:EOLhyphen"/>ly ſhew themſelves by ſome great <hi>Irruption</hi> in the <hi>State,</hi> or alte<g ref="char:EOLhyphen"/>ration in the <hi>Government</hi> by the death of the then <hi>King, Prince,</hi> &amp;c. And this the more certain if there be three Squares of <hi>Saturn</hi> and <hi>Iupiter,</hi> as there are now, and be ſure there effects fall always in thoſe Countries ſubject to the Signs they are in, or their <hi>Quadrangles;</hi> but when they happen to be in <hi>Cardinal Signs</hi> (as they are now) then is their Effects the more fa<g ref="char:EOLhyphen"/>mous and remarkable. And for the truth of this be pleaſed to conſider the preceding Preſidents of this kind, before the <hi>curſed Popiſh plot</hi> in 1678. there was a ſingle Square of the two Su<g ref="char:EOLhyphen"/>periors from <hi>Gemini</hi> and <hi>Piſces,</hi> here <hi>London</hi> and <hi>England</hi> alſo ſuffered ſufficiently by that damned deſign of the <hi>Papiſts,</hi> and thoſe <hi>Villains</hi> their <hi>Accomplices.</hi> In 1668. there was a ſingle Square from <hi>Aquary</hi> and <hi>Taurus,</hi> this did not at all concern <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> neither was that then diſturbed. In the years 1657. and 1658. there was a triple Square of <hi>Saturn</hi> and <hi>Iupiter,</hi> from <hi>Libra</hi> and <hi>Capricorn,</hi> and <hi>ſatura</hi> then oppoſite to the <hi>Horoſcope</hi> of <hi>England</hi>
+               <pb n="6" facs="tcp:37192:4" rendition="simple:additions"/>
+At that time there was murmurings and plottings againſt the then Oppreſſors, which at laſt was concluded with <hi>Olivers Death,</hi> and a general mutation in the Government, with divers others Chan<g ref="char:EOLhyphen"/>ges and Alterations, as thoſe that then lived, can well remember. Likewiſe when <hi>Oliver</hi> turned out the long <hi>Parliament,</hi> and took the <hi>Government</hi> on him, it was juſt after an <hi>Oppoſition</hi> of thoſe two <hi>Su<g ref="char:EOLhyphen"/>periours.</hi> In the year 1647. and 1648. there was then alſo a <hi>triple Spuare</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> from <hi>Geminy</hi> and <hi>Virgo;</hi> What plot<g ref="char:EOLhyphen"/>ting contrivances there was then againſt the <hi>Government,</hi> let the affairs of <hi>Wales, Lancashire</hi> and <hi>Colcheſter</hi> inform you, which coſt many <hi>thouſand men</hi> their lives, and laſt of all the <hi>King loſt his head.</hi> In the year 1637. and 1638. there was a triple Square of the two Superiours from <hi>Libra</hi> and <hi>Capriocorn,</hi> and <hi>Scorpio</hi> and <hi>Aqua<g ref="char:EOLhyphen"/>ry.</hi> What murmurings there then was among the People of all ſorts, for their <hi>Oppreſſions</hi> they then laboured under, let Hiſtory, inform you, which was at laſt followed with a <hi>War,</hi> &amp;c. I could go further in theſe <hi>Hiſtorical paſſages;</hi> but I think theſe five Exam<g ref="char:EOLhyphen"/>ples are ſufficient to prove, that a <hi>triple Square</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> from <hi>Cardinal Signs</hi> doth certainly make an Irruption in the Go<g ref="char:EOLhyphen"/>vernment of <hi>England,</hi> and generally turn up the heels of it, eſpeci<g ref="char:EOLhyphen"/>ally when it ſtands tottering as at this time; and the firſt of them happens in <hi>March</hi> 1688, the ſecond in <hi>July,</hi> in the ſame year, and the third the <hi>January</hi> following, which by the Grace of God will in time have their Effects alſo.</p>
+            <p>Secondly, as to their poſition, we find the one in the <hi>third Houſe,</hi> and the other in the <hi>fifth,</hi> and nearly in <hi>paralld,</hi> without any <hi>Configuration</hi> or <hi>Aſpect</hi> to any of the other Stars, and both under the Earth, which ſhews as if there were ſome deſigns in hand, that the <hi>Managers</hi> are either affraid or aſhamed to have known; that they are few in number is plain from their poſition <hi>ſine Configurationibus,</hi> and that they are very private from their being under the Earth in ſuccedent Houſes. In ſhort, the <hi>poſition</hi> and the <hi>Aſpect</hi> conſidered with <hi>other things,</hi> doth certainly preſage ſome <hi>villanous contrivance</hi> by the <hi>Papiſts,</hi> which will be the ground of their Ruine, and when their turn is come, I hope the <hi>Proteſtants</hi> will not forget to <hi>hang</hi> them for all their <hi>kindneſs</hi> and <hi>good nature</hi> to us. And now if we conſider <hi>Mars,</hi> who is the other Malefick, we ſhall find him in <hi>Taurus</hi> in the 24. degree thereof, and in Trine to <hi>Jupiter</hi> in the fifth, rhe Houſe of Children, <hi>Venus</hi> in <hi>Aquary</hi> in the ſixth,
+<pb facs="tcp:37192:4" rendition="simple:additions"/>
+and the <hi>Moon</hi> in the third houſe cadent in <hi>Scorpio,</hi> that <hi>Villanous Treacherous, Cheating, Perfidious, Truce-breaking,</hi> wHoreing-ſign. And the firſt Aſpect the <hi>Moon</hi> makes in the <hi>Zodiack,</hi> is the Square of <hi>Venus,</hi> then to the <hi>Trine</hi> of <hi>Jupiter,</hi> and laſtly to the Oppoſi<g ref="char:EOLhyphen"/>tion of <hi>Mars,</hi> and all theſe from that <hi>Pious ſign Scorpio.</hi> Hence I judg that there is ſome <hi>bawdy project</hi> on foot, that muſt be ma<g ref="char:EOLhyphen"/>naged by ſuch people as are deſcribed by the <hi>Moon</hi> in <hi>Scorpio.</hi> And this is either about <hi>buying, ſelling,</hi> or <hi>procuring</hi> a <hi>Child</hi> or <hi>Children</hi> for ſome <hi>pious uſe.</hi> Perhaps it may be nothing elſe but the taking care of <hi>Father Peters</hi> his <hi>Child</hi> that he got on <hi>Mrs. Betty</hi> at the <hi>Bath</hi> laſt Summer; and that I may do you all the ſervice I can, I will here deſcribe what manner of made perſons they are that are to be concerned in this <hi>bawdy project.</hi> And they are a ſort of <hi>ſcandalous, impudent, mercenary</hi> people, that will ſell or ruin their own Souls, to ſerve the cauſe they are dipt in, of a <hi>fat corpulent Body,</hi> not very tall, perhaps but ſhort; for they are like the Moon in <hi>Scorpio,</hi> which may give both, but always fat or inclined to it. For a <hi>Man Gadbury</hi> the <hi>Popes Aſtrologer</hi> is exactly deſcribed both for body and mind, and for a <hi>Woman</hi> Mrs. <hi>Cellier Midwife</hi> to the <hi>Popiſh plot,</hi> who doth not come an Inch behind him, both for reputation and ho<g ref="char:EOLhyphen"/>neſty.</p>
+            <p>But beſides this, there may be other deſigns in hand ſui<g ref="char:EOLhyphen"/>table to this poſition<g ref="char:punc">▪</g> and that is ſome <hi>Embaſſy,</hi> or forreign <hi>Meſſage,</hi> to be negotiated a few weeks after the Ingreſs, about a weighty affair now in hand, and ſince we find <hi>Jupiter, Venus</hi> and <hi>Mars</hi> to be concerned in it, the buſineſs may be about mo<g ref="char:EOLhyphen"/>ney, <hi>Councils</hi> and <hi>Souldiers.</hi> And the reaſon that induceth me to believe it to be beyond the Seas, is becauſe the <hi>Moon</hi> is in the third, the Houſe of <hi>Journeys, Jupiter</hi> in the fifth, the Houſe of <hi>Embaſſies</hi> and <hi>Ambaſſadors,</hi> and <hi>Mars</hi> in the ninth, the Houſe of <hi>Long-Journeys</hi> and <hi>Voyages</hi> by <hi>Sea:</hi> and that it is about <hi>Souldiers</hi> and <hi>armed men,</hi> becauſe of the <hi>Moon</hi> and <hi>Mars</hi> in violent and per<g ref="char:EOLhyphen"/>nicious parts of Heaven. But if you conſider <hi>Mercury</hi> ſwift in motion, in his <hi>Oriental Occidentakity,</hi> and ſeparated from the <hi>Sun</hi> (who is in exact Sextile to the tenth) and next applys to the oppoſition of <hi>Saturn</hi> and <hi>Square</hi> of <hi>Jupiter</hi> in the <hi>Zodiack,</hi> and to the <hi>Sextile</hi> of <hi>Jupiter in Mundo,</hi> all from <hi>Aries,</hi> the Aſcendent of <hi>England.</hi> So you will ſee a fine Iſſue of theſe things a few days after the Ingreſs, whether it will be <hi>Diſcoveries</hi> of <hi>Treachery</hi> with loſs of Honour and Court<g ref="char:EOLhyphen"/>favour, or Impeachments, or both, I will not take upon me to
+<pb facs="tcp:37192:5" rendition="simple:additions"/>
+determin; but the time you may expect it, will be in <hi>April</hi> and <hi>Iune.</hi> Perhaps when Thieves differ there may be ſome work for the Hangman.</p>
+            <p>But one thing more I ſhall obſerve from this <hi>Ingreſs,</hi> and that is, when <hi>Saturn</hi> and <hi>Iupiter</hi> make their ſecond Square, which is in <hi>Iuly.</hi> Then the <hi>Sun</hi> and <hi>Mars</hi> are in <hi>Leo,</hi> near the place of the laſt <hi>great Conjunction,</hi> and they both keep within ways, during their paſſage through that ſign; why may not the <hi>Turk</hi> again feel the force of his Enemies Army, or <hi>Italy</hi> receive ſome diſturbance from a neighbouring Invader?</p>
+            <p>In ſhort, the figure of the <hi>Ingreſs</hi> doth not promiſe any great Action in publick, that is generous and brave; but abundance of <hi>deceipt, wheedle, Tricking,</hi> and ſuch kind of baſe <hi>underhand<g ref="char:EOLhyphen"/>dealing,</hi> wrought in the dark, as the <hi>Popiſh Faction</hi> uſually do. And now if the <hi>Popiſh Juggler</hi> in <hi>Brick-Court</hi> pleaſeth to call this in queſtion, that I do this year, I would adviſe him to leave off his Cant, and tell his Friends the truth if he is able, before it is too late, that they may provide for themſelves. And ſo I come to conſider the <hi>Autumnal Ingreſs,</hi> and that is, when the <hi>Sun</hi> enters the firſt ſcruple of <hi>Libra,</hi> which is this year, <hi>September</hi> the twelfth at 30 minutes; paſt ſix of the clock in the morning.</p>
+            <p>In this figure we find <hi>Cardinal ſigns</hi> poſſeſs the four <hi>Angles,</hi> which, according to ſome <hi>learned Coxcombs</hi> in our profeſſion, is a mighty thing; but for my part I know no reaſon for it, nor they neither; but onely ſome <hi>Bouncing Huffs</hi> will impoſe, and find <hi>eaſy People</hi> to believe them. Any ſigns on the <hi>Angles</hi> with <hi>Planets</hi> in them, are great poſitions, but <hi>cardinal ſigns</hi> there without <hi>Planets,</hi> ſignify little; but <hi>ſi populus vult decipi, &amp;c.</hi> but in this Figure we have three <hi>Planets Angular,</hi> and yet they ſigni<g ref="char:EOLhyphen"/>fie very little to the advantage of the poſition in general. For <hi>Jupiter</hi> is in his fall in oppoſition to the <hi>Angle</hi> of <hi>dignity</hi> and <hi>gran<g ref="char:EOLhyphen"/>deur,</hi> and in Square to <hi>Saturn,</hi> and <hi>Saturn</hi> is in <hi>Lihra</hi> his <hi>Exalta<g ref="char:EOLhyphen"/>tion,</hi> applying to the <hi>Mundane parallel</hi> of the <hi>Sun,</hi> and in the Aſcendent alſo<g ref="char:punc">▪</g> of which thus ſpeaks <hi>Bonatus, Saturnus in Aſcendente, ſignificat mærorem multorum hominum,</hi> that it ſhews much grief and ſorrow to many men. And if other poſitions and Aſpects ſay true, it is more than probable too. And he ſays the ſame alſo of the poſition of <hi>Mars</hi> in the twelfth, which muſt be aggravated and increaſed by his being Combuſt, <hi>Sig<g ref="char:EOLhyphen"/>nificat mæorem &amp; triſtitiam venturam:</hi> and I judg, he might alſo have ſaid, <hi>Cauſa Criminum &amp; Carceris.</hi> for <hi>Mars</hi> in the twelfth houſe afflicting the <hi>Sun,</hi> gives ſorrow, loſs, impriſonment, and
+<pb facs="tcp:37192:5" rendition="simple:additions"/>
+divers other Calamities of that kind, and this to ſuch perſons as are ſignified by the <hi>ſun</hi> and <hi>Mars.</hi>
+            </p>
+            <p>But what means the <hi>ſun</hi> in the twelfth, within ſix degrees of the Body of <hi>Mars,</hi> and not far from the body of <hi>Saturn,</hi> and this in <hi>Libra</hi> his fall? this is a poſition of pernicious conſequence, of which hear what <hi>Bonatus</hi> ſays: <hi>Significat diminutionem atque depreſſionem divitum &amp; Magnatum. Nobilium quoque &amp; eorum mor<g ref="char:EOLhyphen"/>tem: corunque dignitatum ablationem: &amp; injurias eis illaturas ab ignobilibus.</hi> It ſignifys, ſays he, the fall and depreſſion of great and noble men, and their death alſo: Loſs of their dignity, and af<g ref="char:EOLhyphen"/>fronts to them from the common people: and indeed whether <hi>Bonatus</hi> ſays ſo or not, Common reaſon will tell any man, that ſuch effects muſt be the conſequence of ſuch a poſition, if he un<g ref="char:EOLhyphen"/>derſtands Aſtrology: and as the <hi>Sun</hi> goes from the Body of <hi>Mars,</hi> ſo he apply's to the Body of <hi>Saturn,</hi> who is Lord of the Eighth from the tenth; and for that reaſon alſo ſeems to threaten death to great men in this Quarter, and perhaps a <hi>King</hi> or <hi>Prince</hi> too. For the <hi>ſun</hi> ſignifies <hi>Kings,</hi> &amp;c. Beſides, the <hi>Moon,</hi> who is Lady of the tenth, the houſe of <hi>Kings,</hi> is haſtening to the Body of <hi>Mars</hi> and <hi>Zodiacal parallel of ſaturn,</hi> which exceedingly ſtrengthens the fore<g ref="char:EOLhyphen"/>mentioned <hi>Aphoriſm</hi> and Judgment. I have ſeen a <hi>Nativity</hi> of a certain great Man in <hi>Europe,</hi> whoſe fate ſeems to agree with this poſition, and I care not much if I give you the particulars of his preſent impending directions and other adjuncts that the common Aſtrologers know nothing of. He hath <hi>Leo</hi> Aſcending, and the part of fortune giver of Life, which is directed to the points and Aſpects following, with the Arks of directions, and the time there<g ref="char:EOLhyphen"/>to agreeing.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Par. of Fortune ad oppoſit. Saturn. dd</cell>
+                     <cell>Ark 57. 30</cell>
+                     <cell rows="13">Which gives years</cell>
+                     <cell>54</cell>
+                     <cell rows="13">And Months</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Sol ad par. Satur. in mundo dd</cell>
+                     <cell>Ar. 58. 1</cell>
+                     <cell>55</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Par. Fortu. ad ſeſq. quad. Mercu mdo. dc</cell>
+                     <cell>Ar. 58. 10</cell>
+                     <cell>55</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Jupit. ad par. rap. Saturn. mundo</cell>
+                     <cell>Ar. 59. 0</cell>
+                     <cell>56</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Par. fortu. ad par. mund. Jupit. dd</cell>
+                     <cell>Ar. 60. 44</cell>
+                     <cell>57</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Par. fortu. ad Quard. Venus. mundo. dd</cell>
+                     <cell>Ar. 61. 46</cell>
+                     <cell>58</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>Par. fortu. ad Biquin. Solis dd</cell>
+                     <cell>Ar. 61. 48</cell>
+                     <cell>58</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Par. fortu. ad par. Jupit. mundo. dc</cell>
+                     <cell>Ar. 62. 20</cell>
+                     <cell>59</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Par. fortu. ad par. Rap. Martis mundo.</cell>
+                     <cell>Ar. 62. 54</cell>
+                     <cell>59</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Par. fortu. ad quadr. Satur. mundo. dc</cell>
+                     <cell>Ar. 63. 30</cell>
+                     <cell>60</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Par. fortu. ad ſexti. Martis mundo. dd</cell>
+                     <cell>Ar. 64. 33</cell>
+                     <cell>61</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>Par. fortu. ad Trinu. Mercur. mnndo. dd</cell>
+                     <cell>Ar. 65. 46</cell>
+                     <cell>62</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Luna ad quad. Saturn. mundo dd</cell>
+                     <cell>Ar. 67. 1</cell>
+                     <cell>63</cell>
+                     <cell>05</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Thus you ſee here are 13 directions, and the Major part of them,
+<pb facs="tcp:37192:6" rendition="simple:additions"/>
+begin to operate in and about the Month of October this preſent year, and the Queſtion is, whether they have power to Kill or not? I anſwer, yes, they may kill, and there is but one objection to hinder an Artiſt from being poſitive, and that is the <hi>pars fortunæ ad par. Jupiter mdo. dd.</hi> according to <hi>Ptolemey,</hi> Lib. 3. Cap. 14 and indeed it might be Judged, that the dire<g ref="char:EOLhyphen"/>ction would have defeated all the reſt, with the aſſiſtance of the <hi>Square of Venus,</hi> had not <hi>Jupiter</hi> at the ſame time been directed to the <hi>Parallel of Saturn in mundo motu Rapto,</hi> and Venus by the ſame motion to the <hi>Square of Saturn in mundo:</hi> but perhaps ſome may object, and ſay, that I mention ſome directions that are far diſtant in degrees, and therefore they cannot ſignify much: to thoſe I anſwer, let them read and ſtudy well that Chapter in Ptolomey, <hi>de numero annorum Nati,</hi> and perhaps they may underſtand it ſo far as to be ſatisfied. If they do not, it is not my fault: But I will here ſpeak ſomething in particular as an Artiſt, but it will be wholly different from the Common Aſtro<g ref="char:EOLhyphen"/>logical cant now in uſe.</p>
+            <p>The <hi>Part of fortune</hi> is <hi>Giver of Life,</hi> out of the <hi>Ecliptick,</hi> and in a <hi>violent parallel</hi> in <hi>Square</hi> to the <hi>Moon,</hi> and in <hi>oppoſition</hi> to <hi>Mercury:</hi> and therefore violently placed, <hi>Saturn</hi> the principal Planet directed in this figure is in <hi>Sagitary,</hi> a ſign of a Contra<g ref="char:EOLhyphen"/>ry nature to him, and there in <hi>Conjunction</hi> with the <hi>Scorpions bears</hi> according to Longitude. In a mundane Square with Mars, and under this qualification is the part of fortune directed to him as you have it before, and this aſſiſted by the Sun to the Mundane parallel of Saturn, <hi>pars fortunæ</hi> to the Seſquiquadrate of Mercury, and to the Mundane parallel of Mars <hi>motu Rapto.</hi> With theſe Conſider that at the Moment of the Revolution the Sun is Eclipſed; in Conjunction with Saturn in the twelfth houſe, as in this Ingreſs of the Sun into Libra he is with Mars, and all this in a Climacterical year. But that which is moſt Remarkable, Saturn at the ſame time by direction afflicts two of the prime Hylegiacals, and the only two aſſiſtants. And in the Revolution he afflicts the Sun and Moon by his preſence, he being within 4 degrees of them, the Radical part of for<g ref="char:EOLhyphen"/>tune by parallel, the Midheaven by oppoſition: and the Horo<g ref="char:EOLhyphen"/>ſoope by Square. Now ſuppoſe the queſtion was Asked, Whe<g ref="char:EOLhyphen"/>ther a man of 55 years of age, under ſuch a Crowd of directions, could live or not? why really I muſt needs ſay, if it was my own Brothers Caſe, I ſhould not think it was poſſible for him to Eſcape with his Life.</p>
+            <p>
+               <pb facs="tcp:37192:6" rendition="simple:additions"/>But to Conclude the Judgment of the whole year, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> quarter in particular, I ſhall only add this, that there <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> various and many mutations at hand, and I believe the Effuſion of ſome Blood alſo.</p>
+            <div type="part">
+               <head>Obſervations on the twelve Months.</head>
+               <p n="january">
+                  <hi>JAnuary:</hi> at the beginning of this Month the Sun meets the Square of <hi>Saturn,</hi> from which you may Expect ſome <hi>dam<g ref="char:EOLhyphen"/>nable intrigue</hi> of the <hi>Papiſts,</hi> newly Contrived of which you will hear more toward the End of the Month. But beſides this, it ſhews the <hi>death</hi> of ſome old <hi>infirm ſtates-man,</hi> or elſe he is turned out and diſcarded. It Likewiſe gives ground for new differen<g ref="char:EOLhyphen"/>ces between great and eminent men, and that there ſhall ariſe quarrels between thoſe that leaſt expected it, according to that of <hi>Bonatus, Erum vixa atque diſcordiæ inter divites &amp; Mag<g ref="char:EOLhyphen"/>natus.</hi>
+               </p>
+               <p>But at the <hi>New Moon</hi> in <hi>January</hi> we find <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>oppoſition of Saturn</hi> and <hi>Mars</hi> from the <hi>firſt</hi> and <hi>ſeventh Houſes,</hi> and <hi>Mercury</hi> in the <hi>fourth,</hi> in <hi>Sqaare</hi> to them both, the Effects of which particularly concern <hi>England.</hi> And it hath two ſorts of Effects attend it: the firſt is, great differences among thoſe of the <hi>Government</hi> [as they call themſelves] by which means their preſent affairs are either neglected or put to a ſtand, and perhaps ſome Contrivance about a <hi>foreign Army</hi> next <hi>May</hi> or <hi>June.</hi> The ſecond is, turning out di<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s of their <hi>Creatures,</hi> either becauſe they are <hi>not able or not willing</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſerve them any further, ſo that <hi>in February</hi> you may Expect that the <hi>Eaſtwind</hi> will riſe and ſend in a new <hi>caſt of Catterpillars.</hi>
+               </p>
+               <p n="february">
+                  <hi>Feburary:</hi> at the beginning of this Month we find the <hi>Sun</hi> in <hi>Trine</hi> to <hi>Saturn</hi> which promiſeth preferment to ſome old <hi>Cunning Hypocrite,</hi> that was formerly <hi>Kickt</hi> out, is now received to Court again upon promiſe of obedience, <hi>you know to what.</hi> This month is ſpent in prefer<g ref="char:EOLhyphen"/>ments to thoſe that are quallified with <hi>vertues</hi> fit for it, and divers new <hi>players</hi> are brought in about this time.</p>
+               <p n="march">
+                  <hi>March:</hi> The firſt thing Conſiderable here is, the <hi>Sextile</hi> of the <hi>Sun</hi> and <hi>Jupiter,</hi> and the <hi>Square</hi> of <hi>Saturn</hi> and <hi>Jupiter:</hi> now if you make your Compute right between theſe two <hi>Aſpects,</hi> it will make a very pleaſant mixture fit for the time it falls in, <hi>Sextile</hi> is <hi>great gene<g ref="char:EOLhyphen"/>rous,</hi> and <hi>brave,</hi> but the <hi>Square</hi> is all <hi>trick, Cheat, Hypocriſy,</hi> &amp;c. So that I Conclude there will be about this time ſome <hi>Clergymen</hi> pre<g ref="char:EOLhyphen"/>fered, men of <hi>Excellent parts</hi> and great <hi>proficients</hi> in <hi>Atheiſm, Socinia<g ref="char:EOLhyphen"/>niſm</hi>
+                  <pb n="12" facs="tcp:37192:7" rendition="simple:additions"/>
+and <hi>Popery:</hi> For Example, ſuppoſe <hi>Sam. Parker of Oxford,</hi> or <hi>Cartwright</hi> of <hi>Cheſter:</hi> but whether it is from their preferring theſe Scandalous villains, or any other intricate cauſe I cannot ſay, but about this time the <hi>Popiſh Councils</hi> in <hi>England</hi> go on but Heavily, ſome <hi>deſigns</hi> takes air <hi>to ſoon,</hi> others are <hi>fruſtrate,</hi> and ſome of their own <hi>Creatures diſappoint</hi> them in their ſervice, tho many of them are <hi>Rogues Enough.</hi> The Laſt Monch ſeem'd to the Countenance a <hi>Approaching war</hi> with ſome neighbouring Nation, and much talk there was ſomething to be done by <hi>Sea</hi> and <hi>Land,</hi> but now all that noiſe is Laid aſide, and perhaps thoſe <hi>preparations</hi> then viſſi<g ref="char:EOLhyphen"/>bly may be imployed to ſome other <hi>Curſed deſign,</hi> which is not yet publickly known.</p>
+               <p n="april">
+                  <hi>April.</hi> From the <hi>oppoſition</hi> of the <hi>Sun</hi> and <hi>Saturn</hi> at the End of the Laſt Month you may Expect more <hi>changes</hi> and <hi>Turnings</hi> among thoſe called <hi>Miniſters of State,</hi> and if I miſtake not, there is <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w ſome new regulation among the <hi>Eccleſiaſtical Commiſſioners,</hi> and the <hi>Square</hi> of the <hi>Sun</hi> and <hi>Jupiter</hi> tells you <hi>for what,</hi> that is, there are now new <hi>Orders</hi> and <hi>Commands</hi> ſent down to <hi>Oxford,</hi> and thoſe new <hi>Game<g ref="char:EOLhyphen"/>ſters</hi> are to Execute them; but this is Certain, there is now ſome new villany to be acted by the <hi>Papiſts</hi> at <hi>Oxford,</hi> by what <hi>Perſons</hi> or what <hi>Authority</hi> I will not be poſitive. Beſides, this <hi>Square</hi> of the <hi>Sun</hi> and <hi>Jupiter</hi> doth alſo pretend ſome difference among the <hi>Clergy</hi> and <hi>Courtiers,</hi> or elſe ſome <hi>Conſiderable Clergymen</hi> turned out of favour, perhaps both. <hi>Mars</hi> now in <hi>Gemini</hi> puts the <hi>City</hi> of <hi>London</hi> in fear, and there is good ground for it too. The <hi>Sextile</hi> of <hi>Jupiter</hi> and <hi>Venus</hi> ſpeaks great things about <hi>Liberty, Religion,</hi> and <hi>Privledges</hi> but be<g ref="char:EOLhyphen"/>lieve it who pleaſeth; but the double <hi>ſquare</hi> of <hi>Jupiter</hi> and <hi>Mercury</hi> gives ſome contentious Books and pamphlets about <hi>Religion,</hi> and the <hi>Suns Eclipſe</hi> threatnens <hi>Ireland.</hi>
+               </p>
+               <p n="may">
+                  <hi>May</hi> will not afford much action nor cauſe for it, but the affairs of this Month depend on the Influence of the laſt, only the Trine of the <hi>Sun</hi> and <hi>Jupiter</hi> gives ſome <hi>Loyal Fellow</hi> preferment in the Law, and it is to ſerve a particular end too: there is alſo at this time great En<g ref="char:EOLhyphen"/>deavours uſed to prepare the way for ſome <hi>precious Villanies</hi> to be acted in the next Month. The <hi>Trine</hi> of the <hi>Sun</hi> and <hi>Saturn</hi> gives ſome old <hi>renegado</hi> preferment in the City of <hi>London:</hi> alas <hi>poor old Fop:</hi> thou haſt lived to a fair age, turn—at laſt.</p>
+               <p n="june">
+                  <hi>June.</hi> This is a Month of Action with a Witneſs: the <hi>ſquare</hi> of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Mars</hi> will (you need not queſtion) give villany enough, now they uſe Violence to prepare for <hi>Wheedling;</hi> for it is beſt <hi>Fiſhing</hi> in troubled <hi>Waters:</hi> new Inventions trumpt up, <hi>Priviledges</hi> and <hi>Laws</hi> in<g ref="char:EOLhyphen"/>vaded more than formerly; <hi>Popery</hi> appears more <hi>bare-faced</hi> than it uſed to do. Some <hi>Child</hi> topt upon a <hi>Lawful Heir</hi> to cheat them out of
+<pb n="13" facs="tcp:37192:7" rendition="simple:additions"/>
+their <hi>Right</hi> and <hi>Eſtate, God</hi> preſerve the <hi>Kingdom</hi> of <hi>England</hi> from <hi>In<g ref="char:EOLhyphen"/>vaſion.</hi> For about this time, I fear it in earneſt, and keep the <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> there from being <hi>Dragroon'd.</hi> A Great <hi>Glergy-man</hi> or <hi>Lawyer</hi> dyes, and perhaps it may be judged by <hi>Poiſon.</hi> About the End of this Month or the beginning of the next, <hi>a great Man</hi> in <hi>England</hi> will be indiſpoſed and ſick, which will make many ready to <hi>Beſh—them<g ref="char:EOLhyphen"/>ſelves,</hi> but I will comfort them, the time is not yet come.</p>
+               <p n="july">
+                  <hi>July,</hi> Is not leſs active than the preceeding Month: the <hi>Square</hi> of the <hi>Sun</hi> and <hi>Saturn</hi> will again put things into a ſtrange and unuſual <hi>Ferment,</hi> differences between great men grows ſtill <hi>higher</hi> and more violent and publick: the <hi>Popiſh ſhams</hi> will not do, neither will they paſs upon the people as they expected; and indeed they are too ful<g ref="char:EOLhyphen"/>ſom to be indured. With this the <hi>Oppoſition</hi> of <hi>Jupiter</hi> and the <hi>ſun</hi> takes place, and perhaps you will think it ſtrange, that a great man ſhould quarrel with his <hi>Prieſts,</hi> or they with him. But ſome ſuch things will be, and alſo <hi>ſome Rogues</hi> lately taken in turn'd out again. Theſe poſitions conſidered with the <hi>Square</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> the ſecond time, and <hi>Mars</hi> on the place of the <hi>laſt great Conjunction,</hi> will put things into a very <hi>violent poſture</hi> and <hi>ſtrange diſorder.</hi> Thoſe that are <hi>dipt in Treaſon,</hi> now begin to be <hi>deſperate,</hi> believing the <hi>Gallows</hi> to be their due if the deſign periſh, as it undoubtedly will let them try all the <hi>Tricks</hi> they can, and make uſe of all the <hi>treaſonable practices</hi> that <hi>Gadbury</hi> and the <hi>reſt of the Villians</hi> can put them upon: for they are almoſt come to thier <hi>ne plus ultra.</hi>
+               </p>
+               <p n="august">
+                  <hi>Auguſt,</hi> The <hi>ſquare</hi> of <hi>Saturn</hi> and <hi>Jupiter</hi> puts the whole faction upon Council, and the Queſtion is, <hi>what ſhall be done next.</hi> The Sun and <hi>Mars</hi> in <hi>Leo</hi> on the place of the <hi>Conjunction</hi> ſeems to ſhew their <hi>Councils incline</hi> to <hi>violence,</hi> and <hi>blood,</hi> and rather becauſe in <hi>Leo</hi> the <hi>Aſcendent</hi> of <hi>Rome.</hi> But their Councils are divided, and they cannot yet throughly agree; but on the <hi>15th.</hi> day there is <hi>a violent Lunation</hi> in <hi>Virgo,</hi> and a <hi>Conjunction</hi> of the <hi>Sun</hi> and <hi>Mars</hi> a few days after in the ſame ſign, in <hi>ſquare</hi> to <hi>Gemini</hi> the <hi>Aſcendent</hi> of <hi>London,</hi> if ever the <hi>Papiſts</hi> put it upon a <hi>bloody deſperate iſſue,</hi> it is now at this time. But I think they will not, becauſe I believe they have not <hi>courage</hi> and <hi>impudence</hi> enough to do it, but I am ſure they are willing. <hi>Sol &amp; Mars conjuncti in Virgine, ſignificat Effuſionem ſanguinis,</hi> and the rea<g ref="char:EOLhyphen"/>ſon is becauſe it is a humane ſign. Yet I am of the opinion that there will be divers ſorts of Violence attend it, and blood may be as well ſhed by the Law, out of a Malicious deſign, as if it were done publickly by the hand of <hi>Mars.</hi>
+               </p>
+               <p>But I would now adviſe the People of <hi>England</hi> to provide them<g ref="char:EOLhyphen"/>ſelves with <hi>Nets</hi> of all ſorts, for they will ſhortly have great occa<g ref="char:EOLhyphen"/>ſion to uſe them. Your <hi>Prieſts Nets</hi> ought to be made <hi>firm</hi> and <hi>good,</hi> and as ſtrong as if you were to Catch <hi>foxes</hi> and <hi>wild Boars</hi> in them,
+<pb n="14" facs="tcp:37192:8" rendition="simple:additions"/>
+for they are a <hi>Crew of plaguy ſtrong Rogues,</hi> Eſpecially thoſe that <hi>C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ry ſaints about with them,</hi> and for this ſort of <hi>Game</hi> let your <hi>Nets</hi> be ſpread at <hi>Charing-Croſs, London-Bridg, Graveſend, Dover,</hi> and <hi>Portſ<g ref="char:EOLhyphen"/>mouth.</hi>
+               </p>
+               <p>But the <hi>Judg-Nets</hi> need not be altogether ſo ſtrong, ſuch as you uſed to <hi>Catch Owles</hi> and <hi>Buzards</hi> which will do well enough: and your beſt places to ſpread them in are the <hi>Temple-ſtairs, Serjeants Inn-Gates,</hi> and <hi>Chancery-Lane;</hi> You may alſo try your <hi>Nets</hi> to <hi>Catch</hi> three or <hi>four Biſhops,</hi> but in my opinion you had better <hi>Angle</hi> for them, and your beſt Bait, is a <hi>Cardinals Cap,</hi> with which you will be ſure to Catch them: you muſt be alſo provided for ſome Muſhroom Lords, it was the way formerly to Catch them by their <hi>Honor,</hi> but now you muſt not truſt to that, for theſe never had either <hi>honor</hi> or <hi>honeſty,</hi> and therefore your <hi>Nets</hi> and <hi>Tackling</hi> muſt be good. And for the reſt of the Crowd, whether they are <hi>Knights, worthleſs Gentlemen,</hi> or any of the <hi>new Converted Tender conſcienced Catholicks</hi> in groſs, you may Catch them as they do <hi>Larks in Winter</hi> with a <hi>Low bell</hi> ſuppoſing it calls them to <hi>Maſs.</hi> And when you have taken your game, pray be careful and kind to to <hi>George Jefferys</hi> and <hi>Sam. Parker,</hi> for they de<g ref="char:EOLhyphen"/>ſerve abundance of Reſpect.</p>
+               <p n="september">
+                  <hi>September,</hi> The trine of the <hi>Sun</hi> and <hi>Jupiter</hi> at the End of the laſt month ſeems to indicate <hi>preferment</hi> to ſome <hi>Lawyer</hi> or <hi>Clergy-men</hi> or both: and the <hi>Trine</hi> of <hi>Jupiter</hi> and <hi>Mars</hi> at the beginning of this Month gives advancement to a <hi>Souldier,</hi> for ſome Eminent ſervice by him done either by <hi>Sea</hi> or <hi>Land.</hi> And alſo there ſeems to be a noiſe and report of ſome great body of men to meet about matters of State, either in <hi>Parliament</hi> or ſome other <hi>great Councils,</hi> &amp;c. <hi>Mars</hi> keeping Company with the <hi>Sun</hi> ſo Long will give an unwholſome and an unhealthy ſeaſon. Perphaps ſome new kind of <hi>Feavers,</hi> or a Di<g ref="char:EOLhyphen"/>ſtemper of the <hi>Bowels</hi> may enſue. The <hi>Conjunction</hi> of <hi>Mars</hi> and <hi>Mercury</hi> in <hi>Libra</hi> will Lay ſome knaviſh deſign either for Cheating or Thieving. But their being ſo near the <hi>Sun Beams,</hi> it may be diſ<g ref="char:EOLhyphen"/>covered before they are aware, and they rewarded before they are willing.</p>
+               <p n="october">
+                  <hi>October,</hi> Here are no leſs than five of the ſeven <hi>Planets</hi> in <hi>Libra,</hi> and ſuddenly after four of them in <hi>Scorpio.</hi> And all of them out of their dignities [terms excepted] this can be no other than great and <hi>frequent meetings</hi> to <hi>Conſult</hi> upon ſome affairs that ſeem to re<g ref="char:EOLhyphen"/>quire both <hi>Speed</hi> and <hi>Secrecy.</hi> The <hi>Planets</hi> are <hi>Saturn,</hi> the Sun <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> and <hi>Mercury;</hi> here are People of all ſorts concerned in it: old <hi>Young, Noble, Ignoble, Men, Women, Lawyers, Stateſmen,</hi> &amp;c. well let them go on with their deſign, and <hi>manage</hi> it as <hi>well</hi> and as <hi>wiſe<g ref="char:EOLhyphen"/>ly</hi> as they and their Councellors can Contrive. But in the <hi>next</hi> place we find the Sun in <hi>Conjunction</hi> with <hi>Saturn</hi> in about 27 degrees of <hi>Libra,</hi>
+                  <pb facs="tcp:37192:8" rendition="simple:additions"/>
+this is an untoward <hi>poſition,</hi> and I doubt will make <hi>ſome peoples hearts ake Saturn,</hi> according to the Common notion in <hi>Astrology</hi> is ſtrong in <hi>Libra,</hi> it being his Exaltation, and the Sun is weak there, it being his fall. So that the Sun is afflicted by the preſence of <hi>Saturn,</hi> and I <hi>Expect the death of ſome great Man for that reaſon,</hi> &amp;c. the <hi>Eclipſe of the</hi> Sun doth alſo ſhew the ſame, it being in the beginning of <hi>Scor<g ref="char:EOLhyphen"/>pio</hi> among violent ſtars, and his death will be of the nature of <hi>Sa<g ref="char:EOLhyphen"/>turn, Mars,</hi> and <hi>Mercury,</hi> the <hi>Square</hi> of <hi>Jupiter</hi> and <hi>Mars</hi> from <hi>Ca<g ref="char:EOLhyphen"/>pricorn</hi> and <hi>Libra<g ref="char:punc">▪</g>
+                  </hi> ſhews ſome great <hi>Lawyer</hi> or <hi>Clergy-man,</hi> or both, to be in an ill Condition; when the heavens frown, then it goes hard. In ſhort, I can tell you that this will be a Month of more <hi>talk</hi> than <hi>trade, Farewel.</hi>
+               </p>
+               <p n="november">
+                  <hi>November,</hi> This Month begins with two remarkable Aſpects, the firſt is the <hi>ſextile</hi> of the <hi>Sun</hi> and <hi>Jupiter;</hi> this ſhews that there is a <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ery great Lady</hi> in <hi>Europe,</hi> that ſhall now Aſcend to <hi>a very great degree and Honour and Grandeur, and long may ſhe injoy it with peace and plen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> it is the Eſſects of her <hi>Mid-heaven</hi> to the body of the <hi>moon</hi> and <hi>ſextile</hi> of <hi>Venus,</hi> the <hi>trine</hi> of <hi>Jupiter</hi> not being far of: the ſecond is the <hi>Con<g ref="char:EOLhyphen"/>junction</hi> of <hi>Saturn</hi> and <hi>Mars</hi> on the place of the <hi>laſt Eclips;</hi> This ſhews the <hi>ruin</hi> and <hi>deſtruction</hi> of many men that a <hi>few months</hi> ago did little think thereof, and theſe men of <hi>no ſmall quality;</hi> it falls in <hi>Scor<g ref="char:EOLhyphen"/>pio</hi> the <hi>dignity</hi> of <hi>Mars</hi> and a <hi>fixt ſign,</hi> and will be therefore both <hi>vi<g ref="char:EOLhyphen"/>olent</hi> and <hi>durable:</hi> Let them look to the Conſequence thereof. Theſe two Aſpects would take up a <hi>whole treatiſe</hi> to Explain them, but I am Confin'd to a ſmall ſpace of Paper, and I need not tell you any more Effects of this Month, for theſe very actions will drownd all other affairt. <hi>God keep all quiet at home.</hi>
+               </p>
+               <p n="december">
+                  <hi>December</hi> Concludes this <hi>wonderful year,</hi> and indeed of the whole, the latter part is moſt to be admired, becauſe of the variety it pro<g ref="char:EOLhyphen"/>duceth; for we find <hi>Venus</hi> on that Great <hi>Lady's Mid-heaven</hi> in <hi>ſextile</hi> to <hi>Mars,</hi> and <hi>Jupiter</hi> on the place of her <hi>Radical</hi> Moon in Conjunction with <hi>Venus,</hi> and about three Months preceding, <hi>Jupiter</hi> Stationary of the <hi>degree</hi> [almoſt] of her <hi>Mid-heaven;</hi> greater poſitions cannot be to concur ſo Exactly, and I doubt not but their <hi>Effects</hi> will be as <hi>conſiderable,</hi> and glorious. Nay I might add yet another, and that is on <hi>Jupiter</hi> on the place of her <hi>Radical Moon</hi> in <hi>ſextile</hi> of <hi>Mars,</hi> who is in the beginning of <hi>Sagitary,</hi> in <hi>Exact ſextile</hi> to her <hi>Radical Mid-hea<g ref="char:EOLhyphen"/>ven,</hi> and this near an Eminent <hi>fixed ſtar</hi> of the Nature of <hi>Mars</hi> and <hi>Jupiter:</hi> and ſo I will Conclude with that paſſage of the <hi>Prophet</hi> Iſaiah, chap. 66. v. 10. <hi>Rejoyce ye with</hi> Jeruſalem, <hi>and be glad with her, all ye that Love her: Rejoyce for joy with her, all ye that mourn for her.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:37192:9"/>
+               <head>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Synopſis <hi>of the whole <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> by way of</hi> CONCLUSION.</head>
+               <lg>
+                  <l>
+                     <hi>COme Painter:</hi> Take a proſpect from this Hill,</l>
+                  <l>And on a well-ſpread Canvas ſhew thy skill.</l>
+                  <l>Draw all in <hi>Coulours</hi> as they ſhall appear,</l>
+                  <l>And as they ſtand in <hi>merit</hi> place them there.</l>
+                  <l>Draw, as the <hi>Heraulds</hi> do, a ſpacious Field,</l>
+                  <l>And as <hi>directed</hi> do, ſo let that be fill'd.</l>
+                  <l>Firſt, draw a <hi>Popiſh Army Brisk</hi> and <hi>Gay,</hi>
+                  </l>
+                  <l>
+                     <hi>Fighting</hi> and <hi>beat, deſtroy'd</hi> and <hi>run away.</hi>
+                  </l>
+                  <l>Then draw a <hi>Hearſe,</hi> and let it ſtand in view</l>
+                  <l>The <hi>Mourners more,</hi> far more than they're in ſhew,</l>
+                  <l>
+                     <hi>Curſing</hi> their <hi>fate,</hi> their <hi>Stars,</hi> and in this fear</l>
+                  <l>Shew if thou canſt how theſe damn'd Sots prepare</l>
+                  <l>To <hi>Run,</hi> or <hi>ſtay,</hi> and <hi>Sculk</hi> in holes alone,</l>
+                  <l>By them this Motto, <hi>Gallows claim thy own.</hi>
+                  </l>
+                  <l>Now to the Life, let thy <hi>brisk Pencil</hi> ſhew,</l>
+                  <l>Diſtinctly, <hi>who</hi> they are, and <hi>what</hi>'s their due.</l>
+                  <l>Now draw a <hi>Croud of Prieſts</hi> prepar'd to run,</l>
+                  <l>Like broken Merchants when their ſtocks are gone.</l>
+                  <l>Some <hi>Howling out their Prayers,</hi> forget and ſay</l>
+                  <l>Save us <hi>Saint Ketch,</hi> are all our <hi>Saints</hi> away?</l>
+                  <l>Draw 'em in <hi>hurry, running</hi> to and fro,</l>
+                  <l>Poſting to <hi>Dover, Poriſmouth, Tyburn</hi> too.</l>
+                  <l>Next draw a <hi>Crowd of Lord<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> this <hi>Label</hi> by</l>
+                  <l>
+                     <hi>The gre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>deſing is loſt.</hi> Alas, they Cry</l>
+                  <l>Who'd ſerve a Cauſe of ſuch curſt deſtiny!</l>
+                  <l>Now draw <hi>four Prieſts,</hi> ſhew how they <hi>Rome</hi> adore,</l>
+                  <l>And each mans <hi>Scarf,</hi> hang to be ſeen before.</l>
+                  <l>
+                     <hi>Two brace</hi> of <hi>Biſhops,</hi> fallen to deſpair,</l>
+                  <l>Arm'd <hi>Cap a pe,</hi> but going God knows where.</l>
+                  <l>Now ſhew the <hi>Judges,</hi> and with them thy skill</l>
+                  <l>That all who ſee it done, may ſay, <hi>'tis well.</hi>
+                  </l>
+                  <l>In <hi>Caps</hi> and <hi>Gowns,</hi> as they in order ſate</l>
+                  <l>Twixt <hi>Heaven</hi> and <hi>Earth,</hi> do thou 'em Elevate,</l>
+                  <l>Their Learned <hi>Noddles</hi> can <hi>Diſpence</hi> with that.</l>
+                  <l>Now draw the <hi>Little Rogues,</hi> the <hi>Scoundril Crew,</hi>
+                  </l>
+                  <l>
+                     <hi>Knights, Knaves,</hi> and <hi>Beggers,</hi> they muſt have their due</l>
+                  <l>
+                     <hi>Gadbury, Butler,</hi> Ay and <hi>Roger</hi> too<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Amidſt this Crowd, on a fit <hi>Spot</hi> of <hi>Land</hi>
+                  </l>
+                  <l>To <hi>Crown</hi> the work, let a large <hi>Gallows</hi> ſtand.</l>
+                  <l>All trembling by, Arm'd with their <hi>Guilt</hi> and <hi>fears</hi>
+                  </l>
+                  <l>
+                     <hi>Kneel</hi> to t<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <hi>Image,</hi> and pour out their prayers.</l>
+               </lg>
+               <p>And then dye by <hi>ſuffocation.</hi>
+               </p>
+               <pb facs="tcp:37192:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
